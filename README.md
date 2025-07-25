@@ -106,4 +106,5 @@ We aim to harness the collective wisdom of crowds to create more accurate predic
 5. Withdraw your winnings if your predictions were correct
 
 ---
-contact address:0x525f956CFB801F539646F6643F3D4367a302c402
+contract address:0x525f956CFB801F539646F6643F3D4367a302c402
+<img width="1366" height="691" alt="Screenshot from 2025-07-25 14-49-10" src="https://github.com/user-attachments/assets/b4d7c105-2f3e-4101-b747-2508af6b1ac9" />
